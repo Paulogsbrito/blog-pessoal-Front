@@ -8,7 +8,6 @@ function Home() {
                             Seja Bem vindo!
                         </h2>
 
-
                         <p className='text-xl'>
                             Expresse aqui seus pensamentos e opiniões
                         </p>
@@ -26,9 +25,6 @@ function Home() {
                         <img
                             src="https://i.imgur.com/fyfri1v.png"
                             alt="Imagem Página Home"
-                            style={{
-                                width: "66%"
-                            }}
                             className='w-2/3'
                         />
                     </div>
